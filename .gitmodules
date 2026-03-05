@@ -1,0 +1,3 @@
+[submodule "go-zentao"]
+	path = go-zentao
+	url = https://github.com/easysoft/go-zentao.git
