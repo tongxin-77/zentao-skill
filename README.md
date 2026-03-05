@@ -4,7 +4,7 @@ ZenTao project management system integration with RESTful API support for 18.x+ 
 
 ## 项目介绍
 
-本工具为 ZenTao（禅道）项目管理系统提供完整的集成支持，通过其官方 `easysoft/go-zentao` SDK 与 ZenTao 的 RESTful API 交互，支持所有主要的 ZenTao 模块和操作。
+本工具为 ZenTao（禅道）项目管理系统开源版18.5提供完整的集成支持，通过其官方 `easysoft/go-zentao` SDK 与 ZenTao 的 RESTful API 交互，支持所有主要的 ZenTao 模块和操作。
 
 ## 配置说明
 
